@@ -9,6 +9,6 @@ entries:
     name: my-app
     type: application
     urls:
-    - https://github.com/Kavetec/helm-charts.git/my-app-0.1.0.tgz
+    - https://kavetec.github.io/helm-charts/my-app-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-11T16:28:09.266296273Z"
