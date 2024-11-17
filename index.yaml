@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  jenkinsapp:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-17T14:34:51.213830893Z"
+    description: A Helm chart for Kubernetes
+    digest: 1aef4596a4333e2a1e42d6441b846c65a75e57fc83f932951405117a99fe137f
+    name: jenkinsapp
+    type: application
+    urls:
+    - https://github.com/Kavetec/helm-charts.git/jenkinsapp-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-17T14:34:51.213269699Z"
