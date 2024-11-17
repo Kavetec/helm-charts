@@ -9,6 +9,6 @@ entries:
     name: jenkinsapp
     type: application
     urls:
-    - https://github.com/Kavetec/helm-charts.git/jenkinsapp-0.1.0.tgz
+    - https://kavetec.github.io/helm-charts/jenkinsapp-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-17T14:34:51.213269699Z"
